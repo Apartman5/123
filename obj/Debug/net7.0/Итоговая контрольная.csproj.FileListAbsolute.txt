@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\bin\Debug\net7.0\Итоговая контрольная.exe
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\bin\Debug\net7.0\Итоговая контрольная.deps.json
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\bin\Debug\net7.0\Итоговая контрольная.runtimeconfig.json
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\bin\Debug\net7.0\Итоговая контрольная.dll
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\bin\Debug\net7.0\Итоговая контрольная.pdb
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.dll
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\refint\Итоговая контрольная.dll
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.pdb
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\Итоговая контрольная.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\HomeWork\Итоговая контрольная\obj\Debug\net7.0\ref\Итоговая контрольная.dll
